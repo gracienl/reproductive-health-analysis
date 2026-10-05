@@ -1,0 +1,17 @@
+Insurance,Age group,N,Rate %
+Private/Medi-Gap,15–24,480,0.8357618467913808
+Private/Medi-Gap,25–34,1063,11.146312118236693
+Private/Medi-Gap,35–44,1167,18.42983788153864
+Private/Medi-Gap,45–50,472,18.833489436857114
+Medicaid/CHIP/state,15–24,283,2.9817469244254347
+Medicaid/CHIP/state,25–34,409,2.844828212123817
+Medicaid/CHIP/state,35–44,300,6.284690897738927
+Medicaid/CHIP/state,45–50,103,8.467361512139876
+Medicare/military/other govt,15–24,115,1.4619082030680333
+Medicare/military/other govt,25–34,113,5.400991023731255
+Medicare/military/other govt,35–44,82,20.00889297103695
+Medicare/military/other govt,45–50,33,10.180713953887398
+Single-service/IHS/uninsured,15–24,109,0.8096098487936995
+Single-service/IHS/uninsured,25–34,229,4.7024306621360275
+Single-service/IHS/uninsured,35–44,162,10.667430596210819
+Single-service/IHS/uninsured,45–50,75,0.6503468846838727
